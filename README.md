@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/justin-timothy-hall/) or **justin.t.hall@outlook.com**
+- 📫 How to reach me **justin.t.hall@outlook.com**
 
 - 📄 Know about my experiences [justinthall.com/resume](justinthall.com/resume)
 

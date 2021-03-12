@@ -8,7 +8,7 @@
 - ⭐ Web Developer ⭐
 - ⭐ Performance Manager ⭐
 - ⭐ Student ⭐
-<center>
+</center>
 <br />
 
 ### Connect with me:

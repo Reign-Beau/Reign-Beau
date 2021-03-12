@@ -12,11 +12,14 @@
 <br />
 
 <details>
-<summary>Current Web Projects</summary>
+<summary>###Current Web Projects</summary>
 
- 1. [NOLA Broadband]: https://nolabb.netlify.app/
+ 1. [NOLA Broadband](https://nolabb.netlify.app/)
  
 </details>
+
+<br />
+
 
 ### Connect with me:
 [<img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

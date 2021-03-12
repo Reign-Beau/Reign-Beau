@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reign-beau&label=Profile%20views&color=0e75b6&style=flat" alt="reign-beau" /> </p>
 
-- 🔭 I’m currently working on [NOLA BroadBand](https://nolabb.netlify.app/)
+- 🔭 I’m currently working on [NOLA BroadBand](https://nolabb.netlify.app/) and a [Java-based Inventory Application](https://github.com/Reign-Beau/C482)
 
 - 🌱 I’m currently learning **React, Java, Python**
 

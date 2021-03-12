@@ -1,13 +1,14 @@
-<center>
+
 
 ## Greetings, I'm Justin Hall!
 
+<center>
 ### I am an engaged, life long learner always looking for the next thing to discover!
 - ⭐ Systems Engineer ⭐
 - ⭐ Web Developer ⭐
 - ⭐ Performance Manager ⭐
 - ⭐ Student ⭐
-
+<center>
 <br />
 
 ### Connect with me:

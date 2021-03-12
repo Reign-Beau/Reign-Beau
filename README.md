@@ -12,7 +12,7 @@
 <br />
 
 <details>
-<summary>###Current Web Projects</summary>
+<summary>Current Web Projects</summary>
 
  1. [NOLA Broadband](https://nolabb.netlify.app/)
  
@@ -21,11 +21,11 @@
 <br />
 
 
-### Connect with me:
+Connect with me:
 [<img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-### Languages and Tools:
+Languages and Tools:
 <img align="left" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />

@@ -2,14 +2,21 @@
 
 ## Greetings, I'm Justin Hall!
 
-<center>
+
 ### I am an engaged, life long learner always looking for the next thing to discover!
 - ⭐ Systems Engineer ⭐
 - ⭐ Web Developer ⭐
 - ⭐ Performance Manager ⭐
 - ⭐ Student ⭐
-</center>
+- 
 <br />
+
+<details>
+<summary>Current Web Projects</summary>
+
+ 1. [NOLA Broadband]: https://nolabb.netlify.app/
+ 
+</details>
 
 ### Connect with me:
 [<img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

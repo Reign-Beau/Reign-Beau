@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justin Hall!</h1>
+<h1 align="center">Greetings 👋, I'm Justin Hall!</h1>
 <h3 align="center">I am an engaged, life long learner always looking for the next thing to discover.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reign-beau&label=Profile%20views&color=0e75b6&style=flat" alt="reign-beau" /> </p>
